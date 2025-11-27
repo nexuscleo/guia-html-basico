@@ -45,7 +45,7 @@ GuiaHTMLBasico/
 ## 🛠️ Veja o projeto no seu navegador
 
 **Clique no link abaixo:**
-https://nexuscleo-commits.github.io/GuiaHTMLBasico/
+https://nexuscleo.github.io/guia-html-basico/
 
 ## 👤 Autor
 
